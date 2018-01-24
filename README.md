@@ -1,6 +1,6 @@
 # One Dark Bimbo Theme
 
-All credit goes to the authors of [Bimbo Theme]()https://github.com/pawelgrzybek/bimbo-theme and [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) for developing these awesomes themes. This is just a mixure of both themes.
+All credit goes to the authors of [Bimbo Theme](https://github.com/pawelgrzybek/bimbo-theme) and [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) for developing these awesomes themes. This is just a mixure of both themes.
 
 ## Installation
 
