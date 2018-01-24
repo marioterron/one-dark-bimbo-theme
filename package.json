@@ -1,13 +1,14 @@
 {
   "name": "one-dark-bimbo",
   "displayName": "One Dark Bimbo",
-  "description": "",
-  "version": "0.0.1",
+  "description": "Minimalistic and modern looking fork of fantastic Oceanic theme.",
+  "version": "1.0.0",
   "publisher": "marioterron",
   "engines": {
     "vscode": "^1.19.0"
   },
   "categories": ["Themes"],
+  "icon": "images/icon.png",
   "contributes": {
     "themes": [
       {
@@ -16,5 +17,20 @@
         "path": "./themes/one-dark-bimbo-color-theme.json"
       }
     ]
+  },
+  "keywords": ["bimbo", "dark", "onedark", "theme", "oceanic"],
+  "license": "MIT",
+  "maintainers": ["Mario Terron <marioterron157@gmail.com>"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marioterron/one-dark-bimbo-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marioterron/one-dark-bimbo-theme/issues"
+  },
+  "__metadata": {
+    "id": "cd27b49c-2459-43d9-aa5e-cf712a940cc2",
+    "publisherId": "4c200002-e6dc-41e3-8046-00a7223f3f6c",
+    "publisherDisplayName": "Mario Terron"
   }
 }
