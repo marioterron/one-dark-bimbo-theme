@@ -72,7 +72,6 @@
     "statusBar.noFolderBackground": "#21252B",
     "statusBarItem.hoverBackground": "#2c313a",
     "tab.activeBackground": "#2c313a",
-    "tab.border": "#181A1F",
     "tab.inactiveBackground": "#21252B",
     "terminal.ansiBlack": "#7F7F7F",
     "terminal.ansiBlue": "#6699CC",
