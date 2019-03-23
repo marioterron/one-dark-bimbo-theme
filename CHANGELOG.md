@@ -1,5 +1,5 @@
 
-## [1.1.2] - 23-03-2019
+## [1.2.0] - 23-03-2019
 ### Updated
 * Update color scheme to have better readability with 'sublime-babel'
 
