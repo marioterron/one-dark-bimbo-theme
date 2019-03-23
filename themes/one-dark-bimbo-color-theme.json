@@ -162,9 +162,17 @@
       }
     },
     {
-      "name": "String, Symbols, Inherited Class, Markup Heading",
+      "name": "Symbols, Inherited Class, Markup Heading",
       "scope":
-        "string, constant.other.symbol, constant.other.key, entity.other.inherited-class, markup.heading, markup.inserted.git_gutter, meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
+        "constant.other.symbol, constant.other.key, entity.other.inherited-class, markup.heading, markup.inserted.git_gutter, meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
+      "settings": {
+        "foreground": "#d4d4d4"
+      }
+    },
+    {
+      "name": "String",
+      "scope":
+        "string",
       "settings": {
         "foreground": "#99C794"
       }
