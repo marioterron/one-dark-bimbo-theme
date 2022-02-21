@@ -61,7 +61,7 @@
     "scrollbarSlider.hoverBackground": "#5A637580",
     "sideBar.background": "#21252b",
     "sideBar.border": "#232830",
-    "sideBar.foreground": "#64727f",
+    "sideBar.foreground": "#ffffff",
     "sideBarSectionHeader.background": "#282c34",
     "sideBarSectionHeader.foreground": "#c0c5cd",
     "statusBar.background": "#21252B",
@@ -125,8 +125,7 @@
     },
     {
       "name": "Operator, Misc",
-      "scope":
-        "keyword.operator, constant.other.color, punctuation, meta.tag, punctuation.definition.tag, punctuation.separator.inheritance.php, punctuation.definition.tag.html, punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html, punctuation.section.embedded, keyword.other.template, keyword.other.substitution",
+      "scope": "keyword.operator, constant.other.color, punctuation, meta.tag, punctuation.definition.tag, punctuation.separator.inheritance.php, punctuation.definition.tag.html, punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html, punctuation.section.embedded, keyword.other.template, keyword.other.substitution",
       "settings": {
         "foreground": "#5FB3B3"
       }
@@ -140,8 +139,7 @@
     },
     {
       "name": "Function, Special Method, Block Level",
-      "scope":
-        "entity.name.function, meta.function-call, variable.function, support.function, keyword.other.special-method, meta.block-level",
+      "scope": "entity.name.function, meta.function-call, variable.function, support.function, keyword.other.special-method, meta.block-level",
       "settings": {
         "foreground": "#6699CC"
       }
@@ -155,32 +153,28 @@
     },
     {
       "name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
-      "scope":
-        "constant.numeric, constant.language, support.constant, constant.character, variable.parameter, keyword.other.unit",
+      "scope": "constant.numeric, constant.language, support.constant, constant.character, variable.parameter, keyword.other.unit",
       "settings": {
         "foreground": "#F99157"
       }
     },
     {
       "name": "Symbols, Inherited Class, Markup Heading",
-      "scope":
-        "constant.other.symbol, constant.other.key, entity.other.inherited-class, markup.heading, markup.inserted.git_gutter, meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
+      "scope": "constant.other.symbol, constant.other.key, entity.other.inherited-class, markup.heading, markup.inserted.git_gutter, meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
       "settings": {
         "foreground": "#d4d4d4"
       }
     },
     {
       "name": "String",
-      "scope":
-        "string",
+      "scope": "string",
       "settings": {
         "foreground": "#99C794"
       }
     },
     {
       "name": "Class, Support",
-      "scope":
-        "entity.name.class, entity.name.type.class, support.type, support.class, support.orther.namespace.use.php, meta.use.php, support.other.namespace.php, markup.changed.git_gutter",
+      "scope": "entity.name.class, entity.name.type.class, support.type, support.class, support.orther.namespace.use.php, meta.use.php, support.other.namespace.php, markup.changed.git_gutter",
       "settings": {
         "foreground": "#FAC863"
       }
@@ -279,8 +273,7 @@
     },
     {
       "name": "Decorators",
-      "scope":
-        "tag.decorator.js entity.name.tag.js, tag.decorator.js punctuation.definition.tag.js",
+      "scope": "tag.decorator.js entity.name.tag.js, tag.decorator.js punctuation.definition.tag.js",
       "settings": {
         "fontStyle": "italic",
         "foreground": "#6699CC"
